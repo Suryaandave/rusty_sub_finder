@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 # Authors and other metadata
-authors = ["Suryaan Dave"]
+authors = ["Suryaan Dav"]
 description = "A subdomain finder written in Rust"
 
 [dependencies]
