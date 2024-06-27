@@ -27,3 +27,8 @@ Enter website name [in form of google.com]: example.com
 Subdomain exists: www.example.com
 
 Subdomain exists: mail.example.com
+
+
+![animated-donald-duck-image-0272](https://github.com/Suryaandave/rusty_sub_finder/assets/92649604/2cf24655-6373-4f84-9f38-458c100b6511)
+
+
