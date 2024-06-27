@@ -1,0 +1,12 @@
+[package]
+name = "rusty_sub_finder"
+version = "0.1.0"
+edition = "2021"
+
+# Authors and other metadata
+authors = ["Your Name <you@example.com>"]
+description = "A subdomain finder written in Rust"
+
+[dependencies]
+reqwest = { version = "0.12.5", features = ["json", "blocking"] }
+tokio = { version = "1", features = ["full"] }
