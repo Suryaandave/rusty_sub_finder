@@ -16,7 +16,7 @@ async fn main() -> io::Result<()> {
     io::stdin().read_line(&mut input)?;
     let target_url = input.trim();
 
-    let file_path = "F:\\RUST\\rusty_sub_finder\\src\\subdomains-top1million-5000.txt";
+    let file_path = "rusty_sub_finder\src\subdomains-top1million-5000.txt";
     if let Ok(lines) = read_lines(file_path) {
         let mut handles = vec![];
         for line in lines {
