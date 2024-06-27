@@ -18,10 +18,12 @@ RustySubFinder is a fast and efficient subdomain finder written in Rust. It uses
    ```sh
    git clone https://github.com/Suryaandave/rusty_sub_finder.git
    cd RustySubFinder
-Build the project:
+   cargo run --release
 
+Example:
 
-$ cargo run --release
 Enter website name [in form of google.com]: example.com
+
 Subdomain exists: www.example.com
+
 Subdomain exists: mail.example.com
