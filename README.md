@@ -16,7 +16,7 @@ RustySubFinder is a fast and efficient subdomain finder written in Rust. It uses
 2. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/RustySubFinder.git
+   git clone https://github.com/Suryaandave/rusty_sub_finder.git
    cd RustySubFinder
 Build the project:
 
